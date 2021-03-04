@@ -12,6 +12,7 @@ ClientCore.Extras has most features, but anything in ClientCore is ok to use (ju
 
 # Changelog
 **1.0.1**
+
   Core 1.0.1
   - Function ClientCore.LoadTexture
   - Function ClientCore.GetChildren
@@ -28,6 +29,7 @@ ClientCore.Extras has most features, but anything in ClientCore is ok to use (ju
 
 
 **1.0.0**
+
   Client Core:
    - Edits Home and Notification tabs to look similar to other mod tabs
    - VRCPlus shows even when you dont have it
