@@ -12,23 +12,23 @@ ClientCore.Extras has most features, but anything in ClientCore is ok to use (ju
 
 # Changelog
 **1.0.1**
-Core 1.0.1
- - Function ClientCore.LoadTexture
- - Function ClientCore.GetChildren
- - Function ClientCore.DestroyChildren
- - Function ClientCore.CreatePanel
- - Now allows scrolling tabs
+  Core 1.0.1
+  - Function ClientCore.LoadTexture
+  - Function ClientCore.GetChildren
+  - Function ClientCore.DestroyChildren
+  - Function ClientCore.CreatePanel
+  - Now allows scrolling tabs
  
-Console 1.0.1
- - Updated to support core 1.0.1
- - Prevents console from overloading by clearing console if its logs gets more then 1000 characters
+  Console 1.0.1
+  - Updated to support core 1.0.1
+  - Prevents console from overloading by clearing console if its logs gets more then 1000 characters
  
-NeaterTabs 1.0.1
- - Adds text to the bottom of the Home button and Notifications button
+  NeaterTabs 1.0.1
+  - Adds text to the bottom of the Home button and Notifications button
 
 
-**1.0.1**
- Client Core:
-  - Edits Home and Notification tabs to look similar to other mod tabs
-  - VRCPlus shows even when you dont have it
-  - Infobar on the bottom is now pinned to the top
+**1.0.0**
+  Client Core:
+   - Edits Home and Notification tabs to look similar to other mod tabs
+   - VRCPlus shows even when you dont have it
+   - Infobar on the bottom is now pinned to the top
